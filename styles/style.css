@@ -109,6 +109,11 @@
   height: 405px;
 	margin-bottom: 15px;
 }
+.link__happy:hover {
+	filter: grayscale(80%);
+	cursor: pointer;
+}
+
 
 .buttons {
   margin-right: 20px;

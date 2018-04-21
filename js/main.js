@@ -20,8 +20,6 @@ console.log("theta: ",theta)
 };
 init();
 
-
-// Alert feedback contacto
 var shower = document.getElementById('fd');
 var feedback = document.querySelector('.thanks');
 function showAlert (){
